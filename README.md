@@ -24,12 +24,12 @@ Additional reading materials such as journal articles are listed within the lect
 * [Practical work](practicals/week_2.ipynb)
 
 ### Linear models
-* [Lecture slides]
-* [Practical work]
+* [Lecture slides](lectures/week_3.pdf)
+* [Practical work](practicals/week_3.ipynb)
 
 ### Deep learning I
-* [Lecture slides]
-* [Practical work]
+* [Lecture slides](lectures/week_4.pdf)
+* [Practical work](practicals/week_4.ipynb)
 
 ### Deep learning II
 * [Lecture slides]
